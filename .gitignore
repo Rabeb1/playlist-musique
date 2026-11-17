@@ -1,0 +1,15 @@
+target/
+*.class
+*.log
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+.factorypath
+
+# Angular build copied in by the Dockerfile
+src/main/resources/static/
